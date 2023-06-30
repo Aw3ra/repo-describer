@@ -46,4 +46,4 @@ async function getOpenAIResponse(name, content) {
   console.log("\nName: "+name+'\nDescription: '+response.text);
 }
 
-getGitHub('Aw3ra', 'dougbert');
+getGitHub('Aw3ra', 'repo-describing');

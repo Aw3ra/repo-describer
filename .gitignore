@@ -1,2 +1,7 @@
-# Ignore env file
+.DS_Store
+node_modules
+/package
 .env
+.env.*
+!.env.example
+
